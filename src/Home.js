@@ -1,6 +1,6 @@
 import React from 'react';
-import Image from './img/thumb-2.png'; // Adjust the path based on your project structure
-import {Link,useHistory} from 'react-router-dom'
+ 
+import {Link} from 'react-router-dom'
 import axios from "axios";
 import { useState,useEffect } from "react";
 const Home = () => {
